@@ -2,5 +2,4 @@
 #EXT-X-VERSION:3
 # High Quality Stream (2.1 Mbps)
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186591&extension=m3u8
-http://livein1.com:8080/live/1/0/186591.m3u8?mac=00:1A:79:80:09:03
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186591&extension=m3u8
