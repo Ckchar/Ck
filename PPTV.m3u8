@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
+http://119.59.118.159/live/ch48/Mariogogo007/index.m3u8
 http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776141&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
 https://ww.dooballfree.vip/live/pptv/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776142&extension=m3u8
-http://119.59.118.159/live/ch48/xxccxgd134/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch4
 http://ringo4532.xyz:80/play/live.php?mac=00:1A:79:D2:27:8C&stream=1776142&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch5
