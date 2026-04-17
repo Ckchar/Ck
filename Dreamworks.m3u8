@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 # High Quality Stream (2.1 Mbps)
 #EXT-X-STREAM-INF:BANDWIDTH=2700000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
+https://love.pifipa2974.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
 http://119.59.118.168/live/ch65/irannahee/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2700000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
-https://love.pifipa2974.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
