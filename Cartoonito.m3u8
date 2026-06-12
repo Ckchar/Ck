@@ -3,3 +3,4 @@
 # High Quality Stream (2.1 Mbps)
 #EXT-X-STREAM-INF:BANDWIDTH=2700000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
 http://119.82.250.109:8080/nl.m3u8?id=1012
+https://cdn-5.nxplay.com.br/CARTOONITO_TK/index.m3u8
