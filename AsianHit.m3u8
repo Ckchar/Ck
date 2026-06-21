@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=430000
+https://live.livedoomovies.com:4433/api/hls/live/2816/playlist.m3u8
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/1080p/index.m3u8
-https://liveera.live/demo_app/2816/playlist.m3u8
-
