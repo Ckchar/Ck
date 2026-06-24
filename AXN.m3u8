@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2700000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-https://live.livedoomovies.com:4433/api/hls/live/2650/playlist.m3u8
 http://54.37.19.157/axn/playlist.m3u8
+https://live.livedoomovies.com:4433/api/hls/live/2650/playlist.m3u8
 http://ultratv.one:2095/live/dSS2jwyj/hwjda1S/115620.m3u8
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115620&extension=m3u8
 http://119.82.250.109:8080/nl.m3u8?id=1138
